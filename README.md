@@ -25,6 +25,18 @@
 |--------|--------|-----------|
 | 2025.04.04 | **SQLD (SQL 개발자)** | 한국데이터산업진흥원 |
 
+
+---
+
+## 📃 MORE INFORMATION
+
+
+<p align="center">
+  <a href="https://www.notion.so/your-notion-link" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 📚 TECH STACKS
