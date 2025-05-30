@@ -30,9 +30,8 @@
 
 ## 📃 MORE INFORMATION
 
-
 <p align="center">
-  <a href="https://www.notion.so/your-notion-link" target="_blank">
+  <a href="https://www.notion.so/Jeon-DongGyu-20348e44797b8055ba27fd7e43c9ad28" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
